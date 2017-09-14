@@ -1,0 +1,112 @@
+
+#heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: #006F06;
+    background-image: url("images/color-palette1.jpg")
+}
+h1{
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    font-family: Courier New, Courier, monospace;
+    color:white;
+    }
+a:link{
+    color: #006F06;
+    text-decoration: none;
+}
+a:hover{
+    color:#76B57A;
+}
+h4{
+    column-count: 5;
+    column-width: 50px;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+    font-size: 20px;
+    }
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 50px;
+    padding: 5px;
+    width: 350px;
+}
+h3 {
+    color: #006F06;
+    font-family: 'Adelle W01 Bold';
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 1.25em;
+    margin: 0.5em 0;
+    margin-left: 100px;
+}
+body p{
+    margin-left: 100px;
+}
+#about_me{
+    column-count: 2;
+    column-width: 100px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 50px;
+}
+p:nth-child(2){
+    text-align:left;
+    }
+#paint{
+    column-count: 2;
+    column-width: 300px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 50px;
+}
+
+#crochet{
+    column-count: 2;
+    column-width: 300px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 50px;
+}
+#woodburning{
+    column-count: 2;
+    column-width: 300px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 50px;
+}
+#cross_stitch{
+    column-count: 2;
+    column-width: 300px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 50px;
+}
+#legos{
+    column-count: 2;
+    column-width: 300px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 50px;
+}
+
+.crafts{
+    margin-left: center;
+}
+section{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+footer{
+    text-align:center;
+    margin-top: 50px;
+}
